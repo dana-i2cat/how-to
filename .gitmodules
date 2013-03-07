@@ -1,0 +1,3 @@
+[submodule "HelloOSGi"]
+	path = HelloOSGi
+	url = git://github.com/logoff/HelloOSGi.git
