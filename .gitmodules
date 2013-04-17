@@ -4,3 +4,6 @@
 [submodule "HelloOSGiSpringSecurity"]
 	path = HelloOSGiSpringSecurity
 	url = git://github.com/logoff/HelloOSGiSpringSecurity.git
+[submodule "HelloDOSGiSpringSecurity"]
+	path = HelloDOSGiSpringSecurity
+	url = git://github.com/logoff/HelloDOSGiSpringSecurity.git
